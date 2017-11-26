@@ -107,6 +107,16 @@ ul li:hover a{
 
 /* ABOUT ME */
 
+.profile-img:hover{
+  transform: scale(1.3);
+}
+
+.profile-img{
+  transition: all 0.3 ease 0s;
+  width: 100%
+}
+
+
 #about {
   clear: both;
   float: left;
